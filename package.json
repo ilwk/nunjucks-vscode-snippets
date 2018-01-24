@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-vscode-snippets",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Nunjucks Snippets for Visual Studio Code",
   "icon": "images/icon.png",
   "publisher": "luwenjiechn",

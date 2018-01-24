@@ -12,37 +12,29 @@
   "engines": {
     "vscode": "^1.14.0"
   },
-  "content": {
-    "details": {
-      "path": "README.md"
-    },
-    "license": {
-      "path": "LICENSE"
-    }
-  },
   "keywords": ["Nunjucks", "Nunjucks Snippets"],
   "categories": ["Languages", "Snippets"],
   "contributes": {
     "snippets": [
       {
         "language": "nunjucks",
-        "path": "./snippets.json"
+        "path": "snippets/snippets.json"
       },
       {
         "language": "html",
-        "path": "./snippets.json"
+        "path": "snippets/snippets.json"
       },
       {
         "language": "nj",
-        "path": "./snippets.json"
+        "path": "snippets/snippets.json"
       },
       {
         "language": "njk",
-        "path": "./snippets.json"
+        "path": "snippets/snippets.json"
       },
       {
         "language": "tpl",
-        "path": "./snippets.json"
+        "path": "snippets/snippets.json"
       }
     ]
   },

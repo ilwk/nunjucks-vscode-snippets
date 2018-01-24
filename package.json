@@ -1,13 +1,13 @@
 {
   "name": "nunjucks-vscode-snippets",
   "displayName": "Nunjucks Snippets",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Nunjucks Snippets for Visual Studio Code",
   "icon": "images/icon.png",
   "publisher": "luwenjiechn",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luwenjiechn/nunjucks-vscode-snippets.git"
+    "url": "https://github.com/luwenjiechn/nunjucks-vscode-snippets"
   },
   "engines": {
     "vscode": "^1.14.0"
@@ -15,8 +15,7 @@
   "keywords": ["Nunjucks", "Nunjucks Snippets"],
   "categories": ["Languages", "Snippets"],
   "contributes": {
-    "snippets": [
-      {
+    "snippets": [{
         "language": "nunjucks",
         "path": "snippets/snippets.json"
       },

@@ -19,8 +19,8 @@
 | `set`       | `set`                                            |
 | `macro`     | `macro`                                          |
 | `import`    | `import`                                         |
-| `from`      | `fom import`                                     |
-| `rwa`       | `raw`                                            |
+| `from`      | `from import`                                     |
+| `raw`       | `raw`                                            |
 | `call`      | `call`                                           |
 | `var`       | `alt variable`                                   |
 | `super`     | `super`                                          |

@@ -19,7 +19,7 @@
 | `set`       | `set`                                            |
 | `macro`     | `macro`                                          |
 | `import`    | `import`                                         |
-| `from`      | `from import`                                     |
+| `from`      | `from import`                                    |
 | `raw`       | `raw`                                            |
 | `call`      | `call`                                           |
 | `var`       | `alt variable`                                   |

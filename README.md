@@ -1,10 +1,14 @@
+## Usages
+
+![Usage](images/usage.gif)
+
 ### Snippets
 
 | Prefix      | HTML Snippet Content                             |
 | ----------- | ------------------------------------------------ |
 | `block`     | `{% block name %} {% endblock %}`                |
 | `njk`       | `{% %}`                                          |
-| `v{}`       | `{{ variable }}`                                 |
+| `var`       | `{{ variable }}`                                 |
 | `extends`   | `{% extends "template" %}`                       |
 | `include`   | `{% include "template" %}`                       |
 | `filter`    | `{% filter filter %} {% endfilter %}`            |

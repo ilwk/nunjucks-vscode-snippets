@@ -12,10 +12,17 @@
   "engines": {
     "vscode": "^1.14.0"
   },
-  "keywords": ["Nunjucks", "Nunjucks Snippets"],
-  "categories": ["Languages", "Snippets"],
+  "keywords": [
+    "Nunjucks",
+    "Nunjucks Snippets"
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets"
+  ],
   "contributes": {
-    "snippets": [{
+    "snippets": [
+      {
         "language": "nunjucks",
         "path": "snippets/snippets.json"
       },

@@ -20,6 +20,7 @@
 | `ifel`      | `if elif`                                        |
 | `elif`      | `elif`                                           |
 | `else`      | `else`                                           |
+| `end`       | `{% endif %}`                                    |
 | `set`       | `set`                                            |
 | `macro`     | `macro`                                          |
 | `import`    | `import`                                         |

@@ -10,7 +10,7 @@
     "url": "https://github.com/luwenjiechn/nunjucks-vscode-snippets"
   },
   "engines": {
-    "vscode": "^1.14.0"
+    "vscode": "^2023.0.0"
   },
   "keywords": [
     "Nunjucks",
